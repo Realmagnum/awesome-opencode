@@ -1,0 +1,4 @@
+name: Opencode Translate Selection
+repo: https://github.com/Realmagnum/opencode-translate-selection
+tagline: Instant inline translation tooltip on text selection with Smart Hybrid LLM/MT
+description: Floating translation tooltip positioned directly above the native Quote toolbar for OpenCode Desktop (v2.2.0+). Smart Hybrid Routing; instant Google Translate (~100ms) for simple phrases, and active session's LLM outside conversation history for structured bullet lists and code snippets. Features Token Shielding, interactive GUI Settings with Live Preview, 5 color presets, and one-click Markdown copy.
